@@ -1,6 +1,6 @@
-------------------------------------------------------------------
-|          NEURAL NETWORK, WHICH DETERMINE CAT OR DOG            |
-------------------------------------------------------------------
+ ------------------------------------------------------------------
+# |          NEURAL NETWORK, WHICH DETERMINE CAT OR DOG            |
+ ------------------------------------------------------------------
 
 ╠ modelBinaryClassification.py - training dataset <br>
 ╠ loadimage.py - launch program <br>
