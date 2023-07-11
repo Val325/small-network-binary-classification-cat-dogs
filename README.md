@@ -2,8 +2,8 @@
 |          NEURAL NETWORK, WHICH DETERMINE CAT OR DOG            |
 ------------------------------------------------------------------
 
-╠ modelBinaryClassification.py - training dataset
-╠ loadimage.py - launch program
+╠ modelBinaryClassification.py - training dataset /n
+╠ loadimage.py - launch program /n
 ╚ model - subfolders with model
 
 Command cli 
