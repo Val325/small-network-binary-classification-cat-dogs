@@ -1,5 +1,5 @@
-# ------------------------------------------------------------------ <br>
-# |          NEURAL NETWORK, WHICH DETERMINE CAT OR DOG            | <br>
+ ------------------------------------------------------------------ <br>
+ |          NEURAL NETWORK, WHICH DETERMINE CAT OR DOG            | <br>
 # ------------------------------------------------------------------ <br>
 
 ╠ modelBinaryClassification.py - training dataset <br>
